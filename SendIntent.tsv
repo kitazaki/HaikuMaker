@@ -1,0 +1,11 @@
+[INTENT SLOT]
+Send	SendSlot
+
+[INTENT EXPRESSION]
+<Send>送って</Send>
+<Send>贈って</Send>
+<Send>おくって</Send>
+<Send>記録</Send>して
+<Send>きろく</Send>して
+<Send>記憶</Send>して
+<Send>きおく</Send>して
