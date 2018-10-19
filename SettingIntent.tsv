@@ -1,0 +1,50 @@
+[INTENT SLOT]
+Set	SetSlot
+Unset	UnsetSlot
+Kami	KamiSlot
+Naka	NakaSlot
+Shimo	ShimoSlot
+
+[INTENT EXPRESSION]
+<Kami>上の句</Kami>を<Set>固定</Set>して
+<Kami>上五</Kami>を<Set>固定</Set>して
+<Kami>上の句</Kami>を<Set>セット</Set>して
+<Kami>上五</Kami>を<Set>セット</Set>して
+<Kami>上の句</Kami>を<Set>設定</Set>して
+<Kami>上五</Kami>を<Set>設定</Set>して
+<Kami>上の句</Kami>を<Set>登録</Set>して
+<Kami>上五</Kami>を<Set>登録</Set>して
+<Kami>上の句</Kami>を<Unset>解除</Unset>して
+<Kami>上五</Kami>を<Unset>解除</Unset>して
+<Kami>上の句</Kami>を<Unset>削除</Unset>して
+<Kami>上五</Kami>を<Unset>削除</Unset>して
+<Naka>中の句</Naka>を<Set>固定</Set>して
+<Naka>中野区</Naka>を<Set>固定</Set>して
+<Naka>中七</Naka>を<Set>固定</Set>して
+<Naka>中の句</Naka>を<Set>セット</Set>して
+<Naka>中野区</Naka>を<Set>セット</Set>して
+<Naka>中七</Naka>を<Set>セット</Set>して
+<Naka>中の句</Naka>を<Set>設定</Set>して
+<Naka>中野区</Naka>を<Set>設定</Set>して
+<Naka>中七</Naka>を<Set>設定</Set>して
+<Naka>中の句</Naka>を<Set>登録</Set>して
+<Naka>中野区</Naka>を<Set>登録</Set>して
+<Naka>中七</Naka>を<Set>登録</Set>して
+<Naka>中の句</Naka>を<Unset>解除</Unset>して
+<Naka>中野区</Naka>を<Unset>解除</Unset>して
+<Naka>中七</Naka>を<Unset>解除</Unset>して
+<Naka>中の句</Naka>を<Unset>削除</Unset>して
+<Naka>中野区</Naka>を<Unset>削除</Unset>して
+<Naka>中七</Naka>を<Unset>削除</Unset>して
+<Shimo>下の句</Shimo>を<Set>固定</Set>して
+<Shimo>下五</Shimo>を<Set>固定</Set>して
+<Shimo>下の句</Shimo>を<Set>セット</Set>して
+<Shimo>下五</Shimo>を<Set>セット</Set>して
+<Shimo>下の句</Shimo>を<Set>設定</Set>して
+<Shimo>下五</Shimo>を<Set>設定</Set>して
+<Shimo>下の句</Shimo>を<Set>登録</Set>して
+<Shimo>下五</Shimo>を<Set>登録</Set>して
+<Shimo>下の句</Shimo>を<Unset>解除</Unset>して
+<Shimo>下五</Shimo>を<Unset>解除</Unset>して
+<Shimo>下の句</Shimo>を<Unset>削除</Unset>して
+<Shimo>下五</Shimo>を<Unset>削除</Unset>して
